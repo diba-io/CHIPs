@@ -37,5 +37,5 @@ It is also an excellent name for an encrypted-by-default deliberately opaque apo
 
 ## Economic
 
-- [CHIP-30](CHIP-0030.md) - Storage Payments
-- [CHIP-31](CHIP-0031.md) - Storage Market Pricing Function
+- [CHIP-30](CHIP-0030.md) - Storage Payments.
+- [CHIP-31](CHIP-0031.md) - Storage Market Pricing Function.
